@@ -1,0 +1,203 @@
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+15:46:42.230: Send S2F41(3791759).
+00 01 82 29 00 00 00 39 DB 8F   01 02 41 13 50 72 6F 63 65 65   
+64 57 69 74 68 4D 61 74 65 72   69 61 6C 01 01 01 02 41 0C 32   
+33 42 41 30 30 30 31 30 30 30   31 41 0A 30 31 32 38 30 30 31   
+30 30 31 
+S2F41 W
+<L[2]
+  <A[19] "ProceedWithMaterial">
+  <L[1]
+    <L[2]
+      <A[12] "23BA00010001">
+      <A[10] "0128001001">
+    >
+  >
+>
+.
+15:46:42.376: Receive S2F42(3791759).
+00 01 02 2A 00 00 00 39 DB 8F   01 02 21 01 03 01 00 
+S2F42
+<L[2]
+  <B[1] 0x03>
+  <L[0]
+  >
+>
+.
+15:47:29.989: Send S2F41(3791761).
+00 01 82 29 00 00 00 39 DB 91   01 02 41 13 50 72 6F 63 65 65   
+64 57 69 74 68 4D 61 74 65 72   69 61 6C 01 01 01 02 41 0C 32   
+33 42 41 30 30 30 31 30 30 30   31 41 0A 30 31 32 38 30 30 31   
+30 30 31 
+S2F41 W
+<L[2]
+  <A[19] "ProceedWithMaterial">
+  <L[1]
+    <L[2]
+      <A[12] "23BA00010001">
+      <A[10] "0128001001">
+    >
+  >
+>
+.
+15:47:30.118: Receive S2F42(3791761).
+00 01 02 2A 00 00 00 39 DB 91   01 02 21 01 03 01 00 
+S2F42
+<L[2]
+  <B[1] 0x03>
+  <L[0]
+  >
+>
+.
+15:48:19.029: Send S2F41(3791762).
+00 01 82 29 00 00 00 39 DB 92   01 02 41 17 53 74 61 72 74 4E   
+65 77 4D 61 74 65 72 69 61 6C   73 53 74 61 63 6B 61 01 01 
+S2F41 W
+<L[2]
+  <A[23] "StartNewMaterialsStacka">
+  <L[1]
+    <I2[55] 25671 -23876 -1425 4608 -30655 0 23 0 120 2424 609 29797 29185 0 1 0 92 29561 29528 3448 578 -23935 -1426 4864 -32768 0 0 0 0 0 118 12590 12289 0 0 0 0 20565 16896 0 93 -23926 -1421 5120 -32676 20597 25196 26979 83 17747 21321 20302 20033 19781 15683>
+  >
+>
+.
+15:48:09.446: Receive Linktest.req.
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!

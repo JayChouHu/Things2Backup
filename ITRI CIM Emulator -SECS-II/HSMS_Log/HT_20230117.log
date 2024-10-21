@@ -1,0 +1,19 @@
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+18:51:27.932: Receive S1F1(100074500).
+00 00 81 01 00 00 05 F7 04 04 
+S1F1 W
+.
+18:51:27.947: Send S1F2(100074500).
+00 00 01 02 00 00 05 F7 04 04   01 00 
+S1F2
+<L[0]
+>
+.
+HSMS Communication Disconnected!

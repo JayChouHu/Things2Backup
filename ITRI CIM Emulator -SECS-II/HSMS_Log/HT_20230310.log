@@ -1,0 +1,347 @@
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+14:47:15.243: Receive S6F11(138).
+00 01 86 0B 00 00 00 00 00 8A   01 03 B1 04 00 00 00 8A B1 04   
+00 00 1B 58 01 01 01 02 B1 04   00 00 00 65 01 02 A9 02 00 00   
+A9 02 00 02 
+S6F11 W
+<L[3]
+  <U4[1] 138>
+  <U4[1] 7000>
+  <L[1]
+    <L[2]
+      <U4[1] 101>
+      <L[2]
+        <U2[1] 0>
+        <U2[1] 2>
+      >
+    >
+  >
+>
+.
+14:47:15.324: Receive S6F11(139).
+00 01 86 0B 00 00 00 00 00 8B   01 03 B1 04 00 00 00 8B B1 04   
+00 00 00 01 01 00 
+S6F11 W
+<L[3]
+  <U4[1] 139>
+  <U4[1] 1>
+  <L[0]
+  >
+>
+.
+14:47:20.454: Receive S6F11(140).
+00 01 86 0B 00 00 00 00 00 8C   01 03 B1 04 00 00 00 8C B1 04   
+00 00 00 05 01 01 01 02 B1 04   00 00 00 05 01 0B 41 09 30 31   
+32 38 32 31 33 37 37 41 09 30   31 32 38 32 31 30 39 39 41 09   
+30 31 32 38 32 31 32 39 34 41   09 30 31 32 38 32 31 32 39 31   
+41 09 30 31 32 38 32 31 30 35   32 41 09 30 31 32 38 32 31 31   
+32 31 41 09 30 31 32 38 32 31   32 30 31 41 09 30 31 32 38 32   
+31 32 38 32 41 00 41 00 41 00 
+S6F11 W
+<L[3]
+  <U4[1] 140>
+  <U4[1] 5>
+  <L[1]
+    <L[2]
+      <U4[1] 5>
+      <L[11]
+        <A[9] "012821377">
+        <A[9] "012821099">
+        <A[9] "012821294">
+        <A[9] "012821291">
+        <A[9] "012821052">
+        <A[9] "012821121">
+        <A[9] "012821201">
+        <A[9] "012821282">
+        <A[0] "">
+        <A[0] "">
+        <A[0] "">
+      >
+    >
+  >
+>
+.
+14:47:28.144: Receive S6F11(141).
+00 01 86 0B 00 00 00 00 00 8D   01 03 B1 04 00 00 00 8D B1 04   
+00 00 1B 58 01 01 01 02 B1 04   00 00 00 65 01 02 A9 02 00 02   
+A9 02 00 00 
+S6F11 W
+<L[3]
+  <U4[1] 141>
+  <U4[1] 7000>
+  <L[1]
+    <L[2]
+      <U4[1] 101>
+      <L[2]
+        <U2[1] 2>
+        <U2[1] 0>
+      >
+    >
+  >
+>
+.
+14:47:28.873: Receive S6F11(142).
+00 01 86 0B 00 00 00 00 00 8E   01 03 B1 04 00 00 00 8E B1 04   
+00 00 1B 58 01 01 01 02 B1 04   00 00 00 65 01 02 A9 02 00 00   
+A9 02 00 02 
+S6F11 W
+<L[3]
+  <U4[1] 142>
+  <U4[1] 7000>
+  <L[1]
+    <L[2]
+      <U4[1] 101>
+      <L[2]
+        <U2[1] 0>
+        <U2[1] 2>
+      >
+    >
+  >
+>
+.
+14:47:29.899: Receive S6F11(143).
+00 01 86 0B 00 00 00 00 00 8F   01 03 B1 04 00 00 00 8F B1 04   
+S6F11 W
+<L[3]
+  <U4[1] 143>
+  <U4[1] 16>
+  <L[1]
+    <L[2]
+      <U4[1] 16>
+      <L[1]
+        <U2[1] 1>
+      >
+    >
+  >
+>
+.
+14:47:35.614: Receive S6F11(144).
+00 01 86 0B 00 00 00 00 00 90   01 03 B1 04 00 00 00 90 B1 04   
+00 00 1B 58 01 01 01 02 B1 04   00 00 00 65 01 02 A9 02 00 02   
+A9 02 00 00 
+S6F11 W
+<L[3]
+  <U4[1] 144>
+  <U4[1] 7000>
+  <L[1]
+    <L[2]
+      <U4[1] 101>
+      <L[2]
+        <U2[1] 2>
+        <U2[1] 0>
+      >
+    >
+  >
+>
+.
+14:48:01.281: Receive S6F11(146).
+00 01 86 0B 00 00 00 00 00 92   01 03 B1 04 00 00 00 91 B1 04   
+00 00 00 01 01 00 
+S6F11 W
+<L[3]
+  <U4[1] 145>
+  <U4[1] 1>
+  <L[0]
+  >
+>
+.
+14:48:01.500: Receive S6F11(147).
+00 01 86 0B 00 00 00 00 00 93   01 03 B1 04 00 00 00 92 B1 04   
+00 00 1B 58 01 01 01 02 B1 04   00 00 00 65 01 02 A9 02 00 00   
+A9 02 00 02 
+S6F11 W
+<L[3]
+  <U4[1] 146>
+  <U4[1] 7000>
+  <L[1]
+    <L[2]
+      <U4[1] 101>
+      <L[2]
+        <U2[1] 0>
+        <U2[1] 2>
+      >
+    >
+  >
+>
+.
+14:48:13.887: Receive S6F11(148).
+00 01 86 0B 00 00 00 00 00 94   01 03 B1 04 00 00 00 93 B1 04   
+00 00 00 05 01 01 01 02 B1 04   00 00 00 05 01 0B 41 09 30 31   
+32 38 32 31 33 37 37 41 09 30   31 32 38 32 31 30 39 39 41 09   
+30 31 32 38 32 31 32 39 34 41   09 30 31 32 38 32 31 32 39 31   
+41 09 30 31 32 38 32 31 30 35   32 41 09 30 31 32 38 32 31 31   
+32 31 41 09 30 31 32 38 32 31   32 30 31 41 09 30 31 32 38 32   
+31 32 38 32 41 09 30 31 32 38   32 31 33 34 37 41 00 41 00 
+S6F11 W
+<L[3]
+  <U4[1] 147>
+  <U4[1] 5>
+  <L[1]
+    <L[2]
+      <U4[1] 5>
+      <L[11]
+        <A[9] "012821377">
+        <A[9] "012821099">
+        <A[9] "012821294">
+        <A[9] "012821291">
+        <A[9] "012821052">
+        <A[9] "012821121">
+        <A[9] "012821201">
+        <A[9] "012821282">
+        <A[9] "012821347">
+        <A[0] "">
+        <A[0] "">
+      >
+    >
+  >
+>
+.
+14:48:21.547: Receive S6F11(149).
+00 01 86 0B 00 00 00 00 00 95   01 03 B1 04 00 00 00 94 B1 04   
+00 00 1B 58 01 01 01 02 B1 04   00 00 00 65 01 02 A9 02 00 02   
+A9 02 00 00 
+S6F11 W
+<L[3]
+  <U4[1] 148>
+  <U4[1] 7000>
+  <L[1]
+    <L[2]
+      <U4[1] 101>
+      <L[2]
+        <U2[1] 2>
+        <U2[1] 0>
+      >
+    >
+  >
+>
+.
+14:48:22.273: Receive S6F11(150).
+00 01 86 0B 00 00 00 00 00 96   01 03 B1 04 00 00 00 95 B1 04   
+00 00 1B 58 01 01 01 02 B1 04   00 00 00 65 01 02 A9 02 00 00   
+A9 02 00 02 
+S6F11 W
+<L[3]
+  <U4[1] 149>
+  <U4[1] 7000>
+  <L[1]
+    <L[2]
+      <U4[1] 101>
+      <L[2]
+        <U2[1] 0>
+        <U2[1] 2>
+      >
+    >
+  >
+>
+.
+14:48:23.201: Receive S6F11(151).
+00 01 86 0B 00 00 00 00 00 97   01 03 B1 04 00 00 00 96 B1 04   
+S6F11 W
+<L[3]
+  <U4[1] 150>
+  <U4[1] 16>
+  <L[1]
+    <L[2]
+      <U4[1] 16>
+      <L[1]
+        <U2[1] 1>
+      >
+    >
+  >
+>
+.
+14:48:29.030: Receive S6F11(152).
+00 01 86 0B 00 00 00 00 00 98   01 03 B1 04 00 00 00 97 B1 04   
+00 00 1B 58 01 01 01 02 B1 04   00 00 00 65 01 02 A9 02 00 02   
+A9 02 00 00 
+S6F11 W
+<L[3]
+  <U4[1] 151>
+  <U4[1] 7000>
+  <L[1]
+    <L[2]
+      <U4[1] 101>
+      <L[2]
+        <U2[1] 2>
+        <U2[1] 0>
+      >
+    >
+  >
+>
+.
+14:48:29.030: Receive S6F11(152).
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+15:15:54.045: Receive Linktest.req.
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
